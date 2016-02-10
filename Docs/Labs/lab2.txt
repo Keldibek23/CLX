@@ -1,0 +1,23 @@
+			Group C04
+Members:
+	Sarbayev Suyun
+	Kusmanova Almira
+	Kurmangaliev keldibek
+	Bekenova Anel 
+	Abildin Yerkebulan 
+	
+
+Quick quiz.The project will contain a quizzes for students of the Suleyman Demirel University. Every teacher of the University will be able to create their own quizzes for students . Quiz will have specific timing and specific runtime. Thus teachers can assess students' knowledge through such Quick Quizzes.
+
+Choice:
+Every student has the opportunity to choose the code of the class  which is currently available . And student have to begin to answer the questions on this subject.
+
+Registration:
+Registration is actually need for give acess to students to take the quiz and to teachers to make the quizzes.
+
+Results:
+Teachers can see all grades of students, that have passed the quiz. And students may see the results of passed quiz intermediatly.
+
+Manage:
+The teachers can add quizzes and make them multipple choice or open question. So we can name this ability as management of quizzes.
+
