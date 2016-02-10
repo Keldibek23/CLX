@@ -1,0 +1,39 @@
+									TEAM CLX
+								    Laboratory work 3
+								Number which was given us: 16
+								Function: 16%5 + 1 = 2
+								A2 example: 2
+
+Members:
+Sarbayev Suyun
+Kusmanova Almira
+Kurmangaliev Keldibek
+Bekenova Anel
+Abildin Yerkebulan
+
+
+1) The first problem which i found was at the Fig-3, which autor was a Syrym, it says that:
+
+	After student selects Examinations section in the main menu, he will able to see he is exams,and also filter them 
+	but for that we need to enter our login and password, and this is a problem,early at the main page of the site as it says in Fig-1, there is a login 
+	page and user must login to web-site,so why there is a reason for user to enter he is login and password,if he is already login in, it is extra
+	action from user,and might be a problem for those who is use google option to remind there passwords at the login page, but if he auto login 
+	with google reminder
+	he maybe forget he is password or not be able to see very important information
+
+2) The next problem is with Fig-7 by Askhat:
+	There is an event table of SDU, which describes at which day you can see if there is a holiday,break,or examination day, but there is a  field Expected 	  attendence is not explained, there is no criteries to select data ,time, or place only calendar which just underline the days showed at the top of 
+	Data/types block,also no clear explanation about "Event type" field 
+	
+
+3) The third problem is about Timetabling in fig-8 by Anuar:
+
+	There is no explanation about how actully to enter to this page it says that on Events=>Titablelink but there is no such link at the Events screen, and not 		explained on the previous screen to
+
+
+
+									TASK 2
+
+1) Screenshots for projects is important for team at the stage of prototyping,it helps team to understand the project and see designers features,it gives for back-end developers a view of how project must work
+
+2) Screenshots it is good for explanation to customer, and representing the results of your work, it is good at early stage of developing when you don't need to show your customer the prototype of the project
